@@ -39,3 +39,6 @@ When developing:
 - Implement each component (classes and functions) in both withoutAI and withAI directories within the appropriate project folder.
 - Measure and document the time taken for each implementation.
 - Ensure all unit tests pass to validate the functionality of each component.
+
+## Source
+All exercises are from https://exercism.org/tracks/php/exercises
